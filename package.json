@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/leozdgao/object-update/issues"
   },
-  "homepage": "https://github.com/leozdgao/object-update#readme"
+  "homepage": "https://github.com/leozdgao/object-update#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
 }
