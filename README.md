@@ -1,5 +1,6 @@
 # object-update
 [![npm version](https://badge.fury.io/js/object-update.svg)](https://badge.fury.io/js/object-update)
+[![Build Status](https://travis-ci.org/leozdgao/object-update.svg?branch=master)](https://travis-ci.org/leozdgao/object-update)
 
 Update a deep nested object with path, return the origin object if not change.
 
